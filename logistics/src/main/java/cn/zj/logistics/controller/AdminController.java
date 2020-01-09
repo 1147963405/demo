@@ -203,6 +203,8 @@ public class AdminController {
 		System.out.println(StringUtils.isNotEmpty(str1));
 		System.out.println(StringUtils.isNotEmpty(str2));
 		System.out.println(StringUtils.isNotEmpty(str3));
+		//测试用
+		System.out.println(StringUtils.isNotEmpty(str3));
 		
 	}
 	
